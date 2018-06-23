@@ -331,3 +331,5 @@ ASALocalRun/
 
 /WindowsThreads/include/*
 /WindowsThreads/lib/*
+/ThreadsAndCRT/include/*
+/ThreadsAndCRT/lib/*

@@ -1,2 +1,2 @@
-*.cpp text
-*.h text
+*.cpp diff merge text
+*.h diff merge text
