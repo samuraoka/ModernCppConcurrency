@@ -335,3 +335,5 @@ ASALocalRun/
 /ThreadsAndCRT/lib/*
 /Events/include/*
 /Events/lib/*
+/ThreadsAndEvents/include/*
+/ThreadsAndEvents/lib/*
