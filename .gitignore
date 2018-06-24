@@ -333,3 +333,5 @@ ASALocalRun/
 /WindowsThreads/lib/*
 /ThreadsAndCRT/include/*
 /ThreadsAndCRT/lib/*
+/Events/include/*
+/Events/lib/*
